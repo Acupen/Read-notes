@@ -6,7 +6,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "My Vue.js Project",
-  base: '/read-notes/',
+  base: '/Read-notes/',
   description: "A Vitepress Site to record my comprehend ",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
